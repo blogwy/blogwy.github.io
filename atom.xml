@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>王雨的博客</title>
+  <icon>https://blog.wangyu.link/images/logo.jpg</icon>
+  
+  <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
+  
+  <link href="https://blog.wangyu.link/"/>
+  <updated>2021-07-15T14:21:05.613Z</updated>
+  <id>https://blog.wangyu.link/</id>
+  
+  <author>
+    <name>王雨</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于Node.js前端脚手架工具开发流程</title>
+    <link href="https://blog.wangyu.link/2021/07/15/2021-07-05/"/>
+    <id>https://blog.wangyu.link/2021/07/15/2021-07-05/</id>
+    <published>2021-07-14T16:00:00.000Z</published>
+    <updated>2021-07-15T14:21:05.613Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;我们要写一个叫&lt;code&gt;hello-cli&lt;/code&gt;的脚手架工具，它要做的是从GitHub拉去项目模版代码，把项目信息填入模版内即可。这是一个简单但是很常见的脚手架功能。&lt;a href=&quot;https://github.com/blogwy/cli-demo&quot;&gt;脚手架源码&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>BilibiliVideoDownload v3.1.0 - 新增扫码登录</title>
+    <link href="https://blog.wangyu.link/2021/07/01/2021-07-01/"/>
+    <id>https://blog.wangyu.link/2021/07/01/2021-07-01/</id>
+    <published>2021-06-30T16:00:00.000Z</published>
+    <updated>2021-07-15T14:18:12.225Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-07-01/%E6%88%AA%E5%B1%8F2021-07-15%20%E4%B8%8A%E5%8D%8811.02.35.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的PS5国行到了</title>
+    <link href="https://blog.wangyu.link/2021/05/16/2021-05-16/"/>
+    <id>https://blog.wangyu.link/2021/05/16/2021-05-16/</id>
+    <published>2021-05-15T16:00:00.000Z</published>
+    <updated>2021-06-14T04:42:25.832Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我的PS5国行到了，直观感觉“好大”！&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://blog.wangyu.link/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>349个官网模版分享</title>
+    <link href="https://blog.wangyu.link/2021/03/29/2021-03-29/"/>
+    <id>https://blog.wangyu.link/2021/03/29/2021-03-29/</id>
+    <published>2021-03-28T16:00:00.000Z</published>
+    <updated>2021-06-14T04:42:25.832Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-03-29/%E6%88%AA%E5%B1%8F2021-03-29%20%E4%B8%8B%E5%8D%881.10.46.png&quot; alt=&quot;banner&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>NASA火星船票申请</title>
+    <link href="https://blog.wangyu.link/2021/03/16/2021-03-16/"/>
+    <id>https://blog.wangyu.link/2021/03/16/2021-03-16/</id>
+    <published>2021-03-15T16:00:00.000Z</published>
+    <updated>2021-06-14T04:42:25.832Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;美国NASA最近开放了2026年的“把你的名字送去火星”的计划，其实这个火星船票早在去年之前就有了，只不过今年莫名其妙就上了热搜。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="生活" scheme="https://blog.wangyu.link/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>BilibiliVideoDownload v3.0.0 - 全新GUI界面</title>
+    <link href="https://blog.wangyu.link/2021/02/21/2021-02-21/"/>
+    <id>https://blog.wangyu.link/2021/02/21/2021-02-21/</id>
+    <published>2021-02-20T16:00:00.000Z</published>
+    <updated>2021-07-14T14:32:08.888Z</updated>
+    
+    
+    <summary type="html">&lt;div align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-02-21/icon128x128.png&quot; alt=&quot;&quot;&gt;
+  &lt;h1&gt;BilibiliVideoDownload&lt;/h1&gt;
+  &lt;blockquote&gt;PC端下载bilibili视频&lt;/blockquote&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>R2S软路由相关教程收集</title>
+    <link href="https://blog.wangyu.link/2021/02/08/2021-02-08/"/>
+    <id>https://blog.wangyu.link/2021/02/08/2021-02-08/</id>
+    <published>2021-02-07T16:00:00.000Z</published>
+    <updated>2021-07-14T14:32:08.888Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-02-08/IMG_1091.JPG&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的2020年度Steam游戏报告 - 来自游民星空</title>
+    <link href="https://blog.wangyu.link/2021/01/12/2021-01-12-01/"/>
+    <id>https://blog.wangyu.link/2021/01/12/2021-01-12-01/</id>
+    <published>2021-01-11T16:00:00.000Z</published>
+    <updated>2021-06-14T04:42:25.832Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-01-12-01/steam.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://blog.wangyu.link/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的2020年度Playstation游戏报告 - 来自游民星空</title>
+    <link href="https://blog.wangyu.link/2021/01/12/2021-01-12-02/"/>
+    <id>https://blog.wangyu.link/2021/01/12/2021-01-12-02/</id>
+    <published>2021-01-11T16:00:00.000Z</published>
+    <updated>2021-06-14T04:42:25.832Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-01-12-02/psn.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://blog.wangyu.link/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好！2021</title>
+    <link href="https://blog.wangyu.link/2021/01/09/2021-01-09/"/>
+    <id>https://blog.wangyu.link/2021/01/09/2021-01-09/</id>
+    <published>2021-01-08T16:00:00.000Z</published>
+    <updated>2021-06-14T04:42:25.832Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;新年新气象，博客换了新主题！2021，希望能原价买个PS5&lt;/strong&gt;&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>bilibili视频下载逻辑</title>
+    <link href="https://blog.wangyu.link/2020/09/06/2020-09-06/"/>
+    <id>https://blog.wangyu.link/2020/09/06/2020-09-06/</id>
+    <published>2020-09-05T16:00:00.000Z</published>
+    <updated>2021-07-14T14:32:08.887Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;b站有三种视频格式，且现在下载的视频都是影视频分离的形式，且都是m4s格式，需要同时把video和audio下载下来，用ffmpeg合成一下即可，所有的请求头都需要添加&lt;code&gt;User-Agent&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1QT4y1w7HS&quot;&gt;https://www.bilibili.com/video/BV1QT4y1w7HS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/bangumi/play/ep326599&quot;&gt;https://www.bilibili.com/bangumi/play/ep326599&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/bangumi/play/ss34319&quot;&gt;https://www.bilibili.com/bangumi/play/ss34319&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;# 音视频合成&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;ffmpeg -i .&amp;#x2F;video.m4s -i .&amp;#x2F;audio.m4s -codec copy .&amp;#x2F;video.mp4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="bilibili" scheme="https://blog.wangyu.link/tags/bilibili/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Awtrix2.0 WIFI像素时钟搭建全过程(极简方案)</title>
+    <link href="https://blog.wangyu.link/2020/08/16/2020-08-16/"/>
+    <id>https://blog.wangyu.link/2020/08/16/2020-08-16/</id>
+    <published>2020-08-15T16:00:00.000Z</published>
+    <updated>2021-07-14T14:32:08.886Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2020-08-16/awtrix_pro.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;最近在B站、youtube看了许多像素时钟的视频，它们都源于&lt;a href=&quot;https://awtrixdocs.blueforcer.de/&quot;&gt;wtrix2.0&lt;/a&gt;这个开源项目。于是，我也萌生了DIY一个属于自己的像素时钟的想法了。&lt;/em&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Awtrix2.0" scheme="https://blog.wangyu.link/tags/Awtrix2-0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue中web-shell简单实现</title>
+    <link href="https://blog.wangyu.link/2020/07/15/2020-07-15/"/>
+    <id>https://blog.wangyu.link/2020/07/15/2020-07-15/</id>
+    <published>2020-07-14T16:00:00.000Z</published>
+    <updated>2021-07-14T14:32:08.885Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;原理&quot;&gt;&lt;a href=&quot;#原理&quot; class=&quot;headerlink&quot; title=&quot;原理&quot;&gt;&lt;/a&gt;原理&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;客户端使用xterm.js展示命令行，服务端使用ssh2.js连接服务器，服务端与客户端通过sock进行通信&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2020-07-15/WX20200721-000513%402x.png&quot; alt=&quot;23&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="xterm" scheme="https://blog.wangyu.link/tags/xterm/"/>
+    
+    <category term="ssh2" scheme="https://blog.wangyu.link/tags/ssh2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Electron-Vue 环境搭建 + 基本入门 + 软件打包 + 软件更新</title>
+    <link href="https://blog.wangyu.link/2020/07/07/2020-07-07/"/>
+    <id>https://blog.wangyu.link/2020/07/07/2020-07-07/</id>
+    <published>2020-07-06T16:00:00.000Z</published>
+    <updated>2021-07-14T14:32:08.884Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;electron是一个使用JS，CSS，HTML构建跨平台的桌面应用程序的框架，微软的&lt;a href=&quot;https://github.com/microsoft/vscode&quot;&gt;VScode&lt;/a&gt;就是使用该技术开发&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;环境搭建&quot;&gt;&lt;a href=&quot;#环境搭建&quot; class=&quot;headerlink&quot; title=&quot;环境搭建&quot;&gt;&lt;/a&gt;环境搭建&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;安装&lt;a href=&quot;https://nodejs.org/zh-cn/download/&quot;&gt;node&lt;/a&gt;环境&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;由于使用的是&lt;a href=&quot;https://github.com/SimulatedGREG/electron-vue&quot;&gt;electron-vue&lt;/a&gt;脚手架工具，首先要安装vuecli&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm install -g @vue/cli&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# OR&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;yarn global add @vue/cli&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="electron" scheme="https://blog.wangyu.link/tags/electron/"/>
+    
+    <category term="vue" scheme="https://blog.wangyu.link/tags/vue/"/>
+    
+    <category term="electron-builder" scheme="https://blog.wangyu.link/tags/electron-builder/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>electron中使用ffmpeg</title>
+    <link href="https://blog.wangyu.link/2020/05/15/2020-05-15/"/>
+    <id>https://blog.wangyu.link/2020/05/15/2020-05-15/</id>
+    <published>2020-05-14T16:00:00.000Z</published>
+    <updated>2021-06-14T04:42:25.832Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;依赖库&quot;&gt;&lt;a href=&quot;#依赖库&quot; class=&quot;headerlink&quot; title=&quot;依赖库&quot;&gt;&lt;/a&gt;依赖库&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/fluent-ffmpeg&quot;&gt;fluent-ffmpeg&lt;/a&gt; ffmpeg的node版驱动软件，提供丰富的API调用ffmpeg，可以指定ffmpeg路径&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/@ffprobe-installer/ffprobe&quot;&gt;@ffprobe-installer&lt;/a&gt; 根据当前系统下载对应版本的ffmprobe&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/@ffmpeg-installer/ffmpeg&quot;&gt;@ffmpeg-installer&lt;/a&gt; 根据当前系统下载对应版本的ffmpeg&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="electron" scheme="https://blog.wangyu.link/tags/electron/"/>
+    
+    <category term="ffmpeg" scheme="https://blog.wangyu.link/tags/ffmpeg/"/>
+    
+    <category term="fluent-ffmpeg" scheme="https://blog.wangyu.link/tags/fluent-ffmpeg/"/>
+    
+    <category term="@ffprobe-installer" scheme="https://blog.wangyu.link/tags/ffprobe-installer/"/>
+    
+    <category term="@ffmpeg-installer" scheme="https://blog.wangyu.link/tags/ffmpeg-installer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>electron中使用flash插件</title>
+    <link href="https://blog.wangyu.link/2020/04/14/2020-05-14/"/>
+    <id>https://blog.wangyu.link/2020/04/14/2020-05-14/</id>
+    <published>2020-04-13T16:00:00.000Z</published>
+    <updated>2021-07-14T14:32:08.883Z</updated>
+    
+    
+    <summary type="html">&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;23&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; pluginName = &lt;span class=&quot;literal&quot;&gt;null&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;let&lt;/span&gt; pluginPath = &lt;span class=&quot;literal&quot;&gt;null&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;switch&lt;/span&gt; (process.platform) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;&amp;#x27;win32&amp;#x27;&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    pluginName = &lt;span class=&quot;string&quot;&gt;&amp;#x27;pepflashplayer.dll&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;break&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;&amp;#x27;darwin&amp;#x27;&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    pluginName = &lt;span class=&quot;string&quot;&gt;&amp;#x27;PepperFlashPlayer.plugin&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;break&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;&amp;#x27;linux&amp;#x27;&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    pluginName = &lt;span class=&quot;string&quot;&gt;&amp;#x27;libpepflashplayer.so&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;break&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;// 根据你的路径修改，这里做打包后路径判断&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; (__dirname.includes(&lt;span class=&quot;string&quot;&gt;&amp;quot;.asar&amp;quot;&lt;/span&gt;)) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  pluginPath = path.join(process.resourcesPath + &lt;span class=&quot;string&quot;&gt;&amp;#x27;/lib/&amp;#x27;&lt;/span&gt; + pluginName)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125; &lt;span class=&quot;keyword&quot;&gt;else&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  pluginPath = path.resolve(__dirname + &lt;span class=&quot;string&quot;&gt;&amp;#x27;/lib/&amp;#x27;&lt;/span&gt; + pluginName)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;app.commandLine.appendSwitch(&lt;span class=&quot;string&quot;&gt;&amp;#x27;ppapi-flash-path&amp;#x27;&lt;/span&gt;, pluginPath)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;app.commandLine.appendSwitch(&lt;span class=&quot;string&quot;&gt;&amp;#x27;ppapi-flash-version&amp;#x27;&lt;/span&gt;, &lt;span class=&quot;string&quot;&gt;&amp;#x27;32.0.0.363&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="electron" scheme="https://blog.wangyu.link/tags/electron/"/>
+    
+    <category term="flash" scheme="https://blog.wangyu.link/tags/flash/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>B站获取SESSDATA</title>
+    <link href="https://blog.wangyu.link/2020/01/25/2020-01-25/"/>
+    <id>https://blog.wangyu.link/2020/01/25/2020-01-25/</id>
+    <published>2020-01-24T16:00:00.000Z</published>
+    <updated>2021-07-14T14:32:08.881Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;注：大会员账号的SESSDATA才可以下载大会员专属视频&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;chrome浏览器打开&lt;a href=&quot;https://www.bilibili.com/&quot;&gt;bilibili&lt;/a&gt; 并登录&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2020-01-25/01.png&quot; alt=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2020-01-25/01.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="cookies" scheme="https://blog.wangyu.link/tags/cookies/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>electron-vue 快速入门</title>
+    <link href="https://blog.wangyu.link/2020/01/21/2020-01-21/"/>
+    <id>https://blog.wangyu.link/2020/01/21/2020-01-21/</id>
+    <published>2020-01-20T16:00:00.000Z</published>
+    <updated>2021-06-14T04:42:25.832Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;准备重构&lt;a href=&quot;https://github.com/blogwy/BilibiliVideoDownload&quot;&gt;BilibiliVideoDownload&lt;/a&gt;,就开始学习electron，再加上自己是vue技术栈就选用了&lt;a href=&quot;https://simulatedgreg.gitbooks.io/electron-vue/content/cn/&quot;&gt;electron-vue&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;electron-vue官网：&lt;a href=&quot;https://simulatedgreg.gitbooks.io/electron-vue/content/cn/&quot;&gt;点击访问&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;electron官网：&lt;a href=&quot;https://electronjs.org/&quot;&gt;点击访问&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="vue.js" scheme="https://blog.wangyu.link/tags/vue-js/"/>
+    
+    <category term="electron.js" scheme="https://blog.wangyu.link/tags/electron-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WEB端扫描二维码和条形码[优化版]</title>
+    <link href="https://blog.wangyu.link/2019/09/20/2019-09-20/"/>
+    <id>https://blog.wangyu.link/2019/09/20/2019-09-20/</id>
+    <published>2019-09-19T16:00:00.000Z</published>
+    <updated>2021-07-14T14:32:08.880Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;之前写过一个demo也是&lt;a href=&quot;https://blogwy.github.io/2019/04/23/2019-04-23/&quot;&gt;web端扫描条形码和二维码&lt;/a&gt;，但是有个问题。程序扫描的是整个可视区域范围不是扫描框，这就会导致如果扫描框也有条码会出错。这次的例子修复了这个问题，扫描区域就是扫描框的区域。而且对不同情况都有良好的兼容，可以把可视区域和扫描框长宽传入组件，组件会进行计算从摄像头中得到扫描框的图像进行识别。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2019-09-20/scanner.png&quot; alt=&quot;图片1&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="二维码" scheme="https://blog.wangyu.link/tags/%E4%BA%8C%E7%BB%B4%E7%A0%81/"/>
+    
+    <category term="条形码" scheme="https://blog.wangyu.link/tags/%E6%9D%A1%E5%BD%A2%E7%A0%81/"/>
+    
+    <category term="vue.js" scheme="https://blog.wangyu.link/tags/vue-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bilibili通过弹幕查询用户</title>
+    <link href="https://blog.wangyu.link/2019/09/12/2019-09-12/"/>
+    <id>https://blog.wangyu.link/2019/09/12/2019-09-12/</id>
+    <published>2019-09-11T16:00:00.000Z</published>
+    <updated>2021-06-14T04:42:25.832Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;弹幕获取&quot;&gt;&lt;a href=&quot;#弹幕获取&quot; class=&quot;headerlink&quot; title=&quot;弹幕获取&quot;&gt;&lt;/a&gt;弹幕获取&lt;/h2&gt;&lt;h3 id=&quot;首先通过视频aid获取cid&quot;&gt;&lt;a href=&quot;#首先通过视频aid获取cid&quot; class=&quot;headerlink&quot; title=&quot;首先通过视频aid获取cid&quot;&gt;&lt;/a&gt;首先通过视频aid获取cid&lt;/h3&gt;&lt;p&gt;视频的aid又称av号，是视频url中av后面的一串数字 &lt;code&gt;https://www.bilibili.com/av67289687&lt;/code&gt; 67289687就是这个视频的aid&lt;/p&gt;
+&lt;p&gt;使用aid去请求这个api &lt;code&gt;https://api.bilibili.com/x/web-interface/view?aid=$&amp;#123;aid&amp;#125;&lt;/code&gt; 即可得到cid&lt;/p&gt;
+&lt;h3 id=&quot;通过cid获取视频弹幕信息&quot;&gt;&lt;a href=&quot;#通过cid获取视频弹幕信息&quot; class=&quot;headerlink&quot; title=&quot;通过cid获取视频弹幕信息&quot;&gt;&lt;/a&gt;通过cid获取视频弹幕信息&lt;/h3&gt;&lt;p&gt;拿到cid以后请求这个api可以得到弹幕信息，xml格式。 &lt;code&gt;https://api.bilibili.com/x/v1/dm/list.so?oid=$&amp;#123;cid&amp;#125;&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&quot;文件转码&quot;&gt;&lt;a href=&quot;#文件转码&quot; class=&quot;headerlink&quot; title=&quot;文件转码&quot;&gt;&lt;/a&gt;文件转码&lt;/h2&gt;&lt;p&gt;应为返回的xml弹幕文件的content-encoding为&lt;a href=&quot;https://blog.csdn.net/u014569188/article/details/78912446&quot;&gt;deflate&lt;/a&gt;,需要用到zlib来解压。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="弹幕" scheme="https://blog.wangyu.link/tags/%E5%BC%B9%E5%B9%95/"/>
+    
+  </entry>
+  
+</feed>
