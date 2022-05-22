@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>王雨的博客</title>
+  <icon>https://blog.wangyu.link/images/logo.jpg</icon>
+  
+  <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
+  
+  <link href="https://blog.wangyu.link/"/>
+  <updated>2022-05-22T04:06:31.933Z</updated>
+  <id>https://blog.wangyu.link/</id>
+  
+  <author>
+    <name>王雨</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记录Ubuntu 20.04 Server 环境配置及软件安装</title>
+    <link href="https://blog.wangyu.link/2022/05/22/2022-05-22/"/>
+    <id>https://blog.wangyu.link/2022/05/22/2022-05-22/</id>
+    <published>2022-05-21T16:00:00.000Z</published>
+    <updated>2022-05-22T04:06:31.933Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://test-1251253615.cos.ap-shanghai.myqcloud.com/hq720.jpeg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>建e网VR全景图片的获取思路</title>
+    <link href="https://blog.wangyu.link/2022/02/28/2022-02-28/"/>
+    <id>https://blog.wangyu.link/2022/02/28/2022-02-28/</id>
+    <published>2022-02-27T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.061Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2022-02-28/%E6%88%AA%E5%B1%8F2022-02-28%20%E4%B8%8B%E5%8D%8811.32.15.png&quot; alt=&quot;6&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2022新年快乐</title>
+    <link href="https://blog.wangyu.link/2022/01/01/2022-01-01/"/>
+    <id>https://blog.wangyu.link/2022/01/01/2022-01-01/</id>
+    <published>2021-12-31T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.061Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;2022新年快乐&lt;/strong&gt;&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://blog.wangyu.link/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>NUC8安装黑苹果</title>
+    <link href="https://blog.wangyu.link/2021/11/20/2021-11-20/"/>
+    <id>https://blog.wangyu.link/2021/11/20/2021-11-20/</id>
+    <published>2021-11-19T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.061Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;*其实我已经有MBP，用了3年了。家里的NUC8是win11系统，想着平时在两个系统之间切换使用有点割裂感。就想把它装一个黑苹果。然后我在远景论坛搜到了一个大佬的帖子&lt;a href=&quot;https://bbs.pcbeta.com/viewthread-1911901-1-1.html&quot;&gt;[OpenCore] NUC8最新OC EFI 持续更新（已更新至0.7.5+12.0.1）&lt;/a&gt;&lt;em&gt;他分享出他的EFI文件，这样我就不需要去重新找驱动了，直接抄作业！其实，我大学时候就装过黑苹果，当时是四叶草引导，现在出现一个更优秀的引导&lt;a href=&quot;https://github.com/acidanthera/OpenCorePkg&quot;&gt;OpenCore&lt;/a&gt;，我也顺便了解一下。后来在b站发现国光大佬的黑苹果教程&lt;a href=&quot;https://www.bilibili.com/video/BV1yq4y1o7cT&quot;&gt;视频版&lt;/a&gt;&lt;a href=&quot;https://apple.sqlsec.com/&quot;&gt;文字版&lt;/a&gt;，强烈建议大家全部看完。下面我说一下我的NUC8装黑苹果具体流程吧&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我的NUC8没有硬改，此教程只适合没有硬改的NUC8&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-11-20/16336211078979.png&quot; alt=&quot;国光大佬的黑苹果教程&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Aria2c web实现 基于WebSocket</title>
+    <link href="https://blog.wangyu.link/2021/09/29/2021-09-29/"/>
+    <id>https://blog.wangyu.link/2021/09/29/2021-09-29/</id>
+    <published>2021-09-28T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.061Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Aria2是一个非常成熟的下载程序，基于命令行调用。它也提供上RPC、WebSocket的调用方式。下面我会通过前端WebSocket调用的方式实现一个简单的下载功能&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-09-29/%E6%88%AA%E5%B1%8F2021-09-29%20%E4%B8%8A%E5%8D%8810.46.06.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>rtsp/rtmp转m3u8 nodejs+ffmpeg实现</title>
+    <link href="https://blog.wangyu.link/2021/09/25/2021-09-24/"/>
+    <id>https://blog.wangyu.link/2021/09/25/2021-09-24/</id>
+    <published>2021-09-24T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.060Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;本文使用node.js和ffmpeg实现了rtsp/rtmp直播流转m3u8&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;核心代码&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Strapi.js 入门</title>
+    <link href="https://blog.wangyu.link/2021/08/03/2021-08-03/"/>
+    <id>https://blog.wangyu.link/2021/08/03/2021-08-03/</id>
+    <published>2021-08-02T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.060Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;什么是Strapi&quot;&gt;&lt;a href=&quot;#什么是Strapi&quot; class=&quot;headerlink&quot; title=&quot;什么是Strapi&quot;&gt;&lt;/a&gt;什么是Strapi&lt;/h2&gt;&lt;p&gt;Strapi 是领先的开源Headless CMS。它是 100% JavaScript，完全可定制，有完善的开发文档，有现代化的管理面板且所以基础功能可视化操作，社区活跃。&lt;/p&gt;
+&lt;h2 id=&quot;Strapi特点&quot;&gt;&lt;a href=&quot;#Strapi特点&quot; class=&quot;headerlink&quot; title=&quot;Strapi特点&quot;&gt;&lt;/a&gt;Strapi特点&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-08-03/%E6%88%AA%E5%B1%8F2021-07-30%20%E4%B8%8B%E5%8D%883.34.06.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>基于Node.js前端脚手架工具开发流程</title>
+    <link href="https://blog.wangyu.link/2021/07/15/2021-07-15/"/>
+    <id>https://blog.wangyu.link/2021/07/15/2021-07-15/</id>
+    <published>2021-07-14T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.060Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;我们要写一个叫&lt;code&gt;hello-cli&lt;/code&gt;的脚手架工具，它要做的是从GitHub拉去项目模版代码，把项目信息填入模版内即可。这是一个简单但是很常见的脚手架功能。&lt;a href=&quot;https://github.com/blogwy/cli-demo&quot;&gt;脚手架源码&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>BilibiliVideoDownload v3.1.0 - 新增扫码登录</title>
+    <link href="https://blog.wangyu.link/2021/07/01/2021-07-01/"/>
+    <id>https://blog.wangyu.link/2021/07/01/2021-07-01/</id>
+    <published>2021-06-30T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.060Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-07-01/%E6%88%AA%E5%B1%8F2021-07-15%20%E4%B8%8A%E5%8D%8811.02.35.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的PS5国行到了</title>
+    <link href="https://blog.wangyu.link/2021/05/16/2021-05-16/"/>
+    <id>https://blog.wangyu.link/2021/05/16/2021-05-16/</id>
+    <published>2021-05-15T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.060Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我的PS5国行到了，直观感觉“好大”！&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://blog.wangyu.link/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>349个官网模版分享</title>
+    <link href="https://blog.wangyu.link/2021/03/29/2021-03-29/"/>
+    <id>https://blog.wangyu.link/2021/03/29/2021-03-29/</id>
+    <published>2021-03-28T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.059Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-03-29/%E6%88%AA%E5%B1%8F2021-03-29%20%E4%B8%8B%E5%8D%881.10.46.png&quot; alt=&quot;banner&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>NASA火星船票申请</title>
+    <link href="https://blog.wangyu.link/2021/03/16/2021-03-16/"/>
+    <id>https://blog.wangyu.link/2021/03/16/2021-03-16/</id>
+    <published>2021-03-15T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.059Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;美国NASA最近开放了2026年的“把你的名字送去火星”的计划，其实这个火星船票早在去年之前就有了，只不过今年莫名其妙就上了热搜。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="生活" scheme="https://blog.wangyu.link/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>BilibiliVideoDownload v3.0.0 - 全新GUI界面</title>
+    <link href="https://blog.wangyu.link/2021/02/21/2021-02-21/"/>
+    <id>https://blog.wangyu.link/2021/02/21/2021-02-21/</id>
+    <published>2021-02-20T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.059Z</updated>
+    
+    
+    <summary type="html">&lt;div align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-02-21/icon128x128.png&quot; alt=&quot;&quot;&gt;
+  &lt;h1&gt;BilibiliVideoDownload&lt;/h1&gt;
+  &lt;blockquote&gt;PC端下载bilibili视频&lt;/blockquote&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>R2S软路由相关教程收集</title>
+    <link href="https://blog.wangyu.link/2021/02/08/2021-02-08/"/>
+    <id>https://blog.wangyu.link/2021/02/08/2021-02-08/</id>
+    <published>2021-02-07T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.059Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-02-08/IMG_1091.JPG&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的2020年度Steam游戏报告 - 来自游民星空</title>
+    <link href="https://blog.wangyu.link/2021/01/12/2021-01-12-01/"/>
+    <id>https://blog.wangyu.link/2021/01/12/2021-01-12-01/</id>
+    <published>2021-01-11T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.058Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-01-12-01/steam.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://blog.wangyu.link/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的2020年度Playstation游戏报告 - 来自游民星空</title>
+    <link href="https://blog.wangyu.link/2021/01/12/2021-01-12-02/"/>
+    <id>https://blog.wangyu.link/2021/01/12/2021-01-12-02/</id>
+    <published>2021-01-11T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.059Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-01-12-02/psn.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://blog.wangyu.link/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好！2021</title>
+    <link href="https://blog.wangyu.link/2021/01/09/2021-01-09/"/>
+    <id>https://blog.wangyu.link/2021/01/09/2021-01-09/</id>
+    <published>2021-01-08T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.058Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;新年新气象，博客换了新主题！2021，希望能原价买个PS5&lt;/strong&gt;&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>bilibili视频下载逻辑</title>
+    <link href="https://blog.wangyu.link/2020/09/06/2020-09-06/"/>
+    <id>https://blog.wangyu.link/2020/09/06/2020-09-06/</id>
+    <published>2020-09-05T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.058Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;b站有三种视频格式，且现在下载的视频都是影视频分离的形式，且都是m4s格式，需要同时把video和audio下载下来，用ffmpeg合成一下即可，所有的请求头都需要添加&lt;code&gt;User-Agent&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1QT4y1w7HS&quot;&gt;https://www.bilibili.com/video/BV1QT4y1w7HS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/bangumi/play/ep326599&quot;&gt;https://www.bilibili.com/bangumi/play/ep326599&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/bangumi/play/ss34319&quot;&gt;https://www.bilibili.com/bangumi/play/ss34319&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;# 音视频合成&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;ffmpeg -i ./video.m4s -i ./audio.m4s -codec copy ./video.mp4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="bilibili" scheme="https://blog.wangyu.link/tags/bilibili/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Awtrix2.0 WIFI像素时钟搭建全过程(极简方案)</title>
+    <link href="https://blog.wangyu.link/2020/08/16/2020-08-16/"/>
+    <id>https://blog.wangyu.link/2020/08/16/2020-08-16/</id>
+    <published>2020-08-15T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.058Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2020-08-16/awtrix_pro.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;最近在B站、youtube看了许多像素时钟的视频，它们都源于&lt;a href=&quot;https://awtrixdocs.blueforcer.de/&quot;&gt;wtrix2.0&lt;/a&gt;这个开源项目。于是，我也萌生了DIY一个属于自己的像素时钟的想法了。&lt;/em&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Awtrix2.0" scheme="https://blog.wangyu.link/tags/Awtrix2-0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue中web-shell简单实现</title>
+    <link href="https://blog.wangyu.link/2020/07/15/2020-07-15/"/>
+    <id>https://blog.wangyu.link/2020/07/15/2020-07-15/</id>
+    <published>2020-07-14T16:00:00.000Z</published>
+    <updated>2022-05-22T02:16:45.057Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;原理&quot;&gt;&lt;a href=&quot;#原理&quot; class=&quot;headerlink&quot; title=&quot;原理&quot;&gt;&lt;/a&gt;原理&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;客户端使用xterm.js展示命令行，服务端使用ssh2.js连接服务器，服务端与客户端通过sock进行通信&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2020-07-15/WX20200721-000513%402x.png&quot; alt=&quot;23&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="xterm" scheme="https://blog.wangyu.link/tags/xterm/"/>
+    
+    <category term="ssh2" scheme="https://blog.wangyu.link/tags/ssh2/"/>
+    
+  </entry>
+  
+</feed>
