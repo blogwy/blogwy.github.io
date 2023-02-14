@@ -6,7 +6,7 @@
   <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
   
   <link href="https://blog.wangyu.link/"/>
-  <updated>2023-02-13T13:47:00.416Z</updated>
+  <updated>2023-02-14T13:46:35.259Z</updated>
   <id>https://blog.wangyu.link/</id>
   
   <author>
@@ -17,14 +17,48 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>go语言学习 - 关键字和标识符</title>
+    <link href="https://blog.wangyu.link/2023/02/14/2023-02-14-01/"/>
+    <id>https://blog.wangyu.link/2023/02/14/2023-02-14-01/</id>
+    <published>2023-02-13T16:00:00.000Z</published>
+    <updated>2023-02-14T13:46:35.259Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>go语言学习 - 基本数据类型</title>
+    <link href="https://blog.wangyu.link/2023/02/14/2023-02-14-02/"/>
+    <id>https://blog.wangyu.link/2023/02/14/2023-02-14-02/</id>
+    <published>2023-02-13T16:00:00.000Z</published>
+    <updated>2023-02-14T14:01:40.762Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>go语言学习 - 变量和常量</title>
     <link href="https://blog.wangyu.link/2023/02/13/2023-02-13/"/>
     <id>https://blog.wangyu.link/2023/02/13/2023-02-13/</id>
     <published>2023-02-12T16:00:00.000Z</published>
-    <updated>2023-02-13T13:47:00.416Z</updated>
+    <updated>2023-02-14T13:36:14.673Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -349,51 +383,6 @@
     
     <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>bilibili视频下载逻辑</title>
-    <link href="https://blog.wangyu.link/2020/09/06/2020-09-06/"/>
-    <id>https://blog.wangyu.link/2020/09/06/2020-09-06/</id>
-    <published>2020-09-05T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.058Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;b站有三种视频格式，且现在下载的视频都是影视频分离的形式，且都是m4s格式，需要同时把video和audio下载下来，用ffmpeg合成一下即可，所有的请求头都需要添加&lt;code&gt;User-Agent&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1QT4y1w7HS&quot;&gt;https://www.bilibili.com/video/BV1QT4y1w7HS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/bangumi/play/ep326599&quot;&gt;https://www.bilibili.com/bangumi/play/ep326599&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/bangumi/play/ss34319&quot;&gt;https://www.bilibili.com/bangumi/play/ss34319&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;# 音视频合成&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;ffmpeg -i ./video.m4s -i ./audio.m4s -codec copy ./video.mp4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="bilibili" scheme="https://blog.wangyu.link/tags/bilibili/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Awtrix2.0 WIFI像素时钟搭建全过程(极简方案)</title>
-    <link href="https://blog.wangyu.link/2020/08/16/2020-08-16/"/>
-    <id>https://blog.wangyu.link/2020/08/16/2020-08-16/</id>
-    <published>2020-08-15T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.058Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2020-08-16/awtrix_pro.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;最近在B站、youtube看了许多像素时钟的视频，它们都源于&lt;a href=&quot;https://awtrixdocs.blueforcer.de/&quot;&gt;wtrix2.0&lt;/a&gt;这个开源项目。于是，我也萌生了DIY一个属于自己的像素时钟的想法了。&lt;/em&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="Awtrix2.0" scheme="https://blog.wangyu.link/tags/Awtrix2-0/"/>
     
   </entry>
   
