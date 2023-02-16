@@ -6,7 +6,7 @@
   <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
   
   <link href="https://blog.wangyu.link/"/>
-  <updated>2023-02-14T13:46:35.259Z</updated>
+  <updated>2023-02-16T14:10:41.346Z</updated>
   <id>https://blog.wangyu.link/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>go语言学习 - 运算符</title>
+    <link href="https://blog.wangyu.link/2023/02/16/2023-02-16/"/>
+    <id>https://blog.wangyu.link/2023/02/16/2023-02-16/</id>
+    <published>2023-02-15T16:00:00.000Z</published>
+    <updated>2023-02-16T14:10:41.346Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>go语言学习 - 关键字和标识符</title>
@@ -358,30 +375,6 @@
     
     
     <category term="游戏" scheme="https://blog.wangyu.link/categories/%E6%B8%B8%E6%88%8F/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>你好！2021</title>
-    <link href="https://blog.wangyu.link/2021/01/09/2021-01-09/"/>
-    <id>https://blog.wangyu.link/2021/01/09/2021-01-09/</id>
-    <published>2021-01-08T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.058Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;strong&gt;新年新气象，博客换了新主题！2021，希望能原价买个PS5&lt;/strong&gt;&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
