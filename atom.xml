@@ -6,7 +6,7 @@
   <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
   
   <link href="https://blog.wangyu.link/"/>
-  <updated>2023-02-16T14:10:41.346Z</updated>
+  <updated>2023-02-19T14:39:42.800Z</updated>
   <id>https://blog.wangyu.link/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>go语言学习 - 运算符</title>
-    <link href="https://blog.wangyu.link/2023/02/16/2023-02-16/"/>
-    <id>https://blog.wangyu.link/2023/02/16/2023-02-16/</id>
-    <published>2023-02-15T16:00:00.000Z</published>
-    <updated>2023-02-16T14:10:41.346Z</updated>
+    <title>go语言学习 - 函数声明和调用</title>
+    <link href="https://blog.wangyu.link/2023/02/19/2023-02-19/"/>
+    <id>https://blog.wangyu.link/2023/02/19/2023-02-19/</id>
+    <published>2023-02-18T16:00:00.000Z</published>
+    <updated>2023-02-19T14:39:42.800Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
@@ -30,6 +30,27 @@
     
     <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
     
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>go语言学习 - 运算符</title>
+    <link href="https://blog.wangyu.link/2023/02/16/2023-02-16/"/>
+    <id>https://blog.wangyu.link/2023/02/16/2023-02-16/</id>
+    <published>2023-02-15T16:00:00.000Z</published>
+    <updated>2023-02-19T07:39:33.569Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
     
   </entry>
   
@@ -38,7 +59,7 @@
     <link href="https://blog.wangyu.link/2023/02/14/2023-02-14-01/"/>
     <id>https://blog.wangyu.link/2023/02/14/2023-02-14-01/</id>
     <published>2023-02-13T16:00:00.000Z</published>
-    <updated>2023-02-14T13:46:35.259Z</updated>
+    <updated>2023-02-19T07:39:24.043Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
@@ -47,6 +68,8 @@
     
     <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
     
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
     
   </entry>
   
@@ -55,7 +78,7 @@
     <link href="https://blog.wangyu.link/2023/02/14/2023-02-14-02/"/>
     <id>https://blog.wangyu.link/2023/02/14/2023-02-14-02/</id>
     <published>2023-02-13T16:00:00.000Z</published>
-    <updated>2023-02-14T14:01:40.762Z</updated>
+    <updated>2023-02-19T07:39:29.780Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
@@ -64,6 +87,8 @@
     
     <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
     
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
     
   </entry>
   
@@ -72,7 +97,7 @@
     <link href="https://blog.wangyu.link/2023/02/13/2023-02-13/"/>
     <id>https://blog.wangyu.link/2023/02/13/2023-02-13/</id>
     <published>2023-02-12T16:00:00.000Z</published>
-    <updated>2023-02-14T13:36:14.673Z</updated>
+    <updated>2023-02-19T07:39:19.511Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
@@ -81,6 +106,8 @@
     
     <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
     
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
     
   </entry>
   
@@ -354,23 +381,6 @@
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-01-12-01/steam.png&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="游戏" scheme="https://blog.wangyu.link/categories/%E6%B8%B8%E6%88%8F/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我的2020年度Playstation游戏报告 - 来自游民星空</title>
-    <link href="https://blog.wangyu.link/2021/01/12/2021-01-12-02/"/>
-    <id>https://blog.wangyu.link/2021/01/12/2021-01-12-02/</id>
-    <published>2021-01-11T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.059Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-01-12-02/psn.png&quot;&gt;&lt;/p&gt;</summary>
     
     
     
