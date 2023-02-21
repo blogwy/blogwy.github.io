@@ -6,7 +6,7 @@
   <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
   
   <link href="https://blog.wangyu.link/"/>
-  <updated>2023-02-20T13:39:30.500Z</updated>
+  <updated>2023-02-21T14:16:45.747Z</updated>
   <id>https://blog.wangyu.link/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>go语言学习 - 协程、延迟函数以及恐慌和恢复</title>
+    <link href="https://blog.wangyu.link/2023/02/21/2023-02-21/"/>
+    <id>https://blog.wangyu.link/2023/02/21/2023-02-21/</id>
+    <published>2023-02-20T16:00:00.000Z</published>
+    <updated>2023-02-21T14:16:45.747Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
+    
+  </entry>
   
   <entry>
     <title>go语言学习 - 流程控制</title>
@@ -366,23 +385,6 @@
   &lt;h1&gt;BilibiliVideoDownload&lt;/h1&gt;
   &lt;blockquote&gt;PC端下载bilibili视频&lt;/blockquote&gt;
 &lt;/div&gt;</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>R2S软路由相关教程收集</title>
-    <link href="https://blog.wangyu.link/2021/02/08/2021-02-08/"/>
-    <id>https://blog.wangyu.link/2021/02/08/2021-02-08/</id>
-    <published>2021-02-07T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.059Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-02-08/IMG_1091.JPG&quot;&gt;&lt;/p&gt;</summary>
     
     
     
