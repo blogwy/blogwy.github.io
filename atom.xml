@@ -6,7 +6,7 @@
   <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
   
   <link href="https://blog.wangyu.link/"/>
-  <updated>2023-02-21T14:16:45.747Z</updated>
+  <updated>2023-02-23T14:01:20.262Z</updated>
   <id>https://blog.wangyu.link/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>go语言学习 - 指针</title>
+    <link href="https://blog.wangyu.link/2023/02/23/2023-02-23/"/>
+    <id>https://blog.wangyu.link/2023/02/23/2023-02-23/</id>
+    <published>2023-02-22T16:00:00.000Z</published>
+    <updated>2023-02-23T14:01:20.262Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
+    
+  </entry>
   
   <entry>
     <title>go语言学习 - 协程、延迟函数以及恐慌和恢复</title>
@@ -368,27 +387,6 @@
     
     
     <category term="生活" scheme="https://blog.wangyu.link/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>BilibiliVideoDownload v3.0.0 - 全新GUI界面</title>
-    <link href="https://blog.wangyu.link/2021/02/21/2021-02-21/"/>
-    <id>https://blog.wangyu.link/2021/02/21/2021-02-21/</id>
-    <published>2021-02-20T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.059Z</updated>
-    
-    
-    <summary type="html">&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-02-21/icon128x128.png&quot; alt=&quot;&quot;&gt;
-  &lt;h1&gt;BilibiliVideoDownload&lt;/h1&gt;
-  &lt;blockquote&gt;PC端下载bilibili视频&lt;/blockquote&gt;
-&lt;/div&gt;</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
