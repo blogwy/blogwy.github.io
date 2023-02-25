@@ -6,7 +6,7 @@
   <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
   
   <link href="https://blog.wangyu.link/"/>
-  <updated>2023-02-23T14:01:20.262Z</updated>
+  <updated>2023-02-25T14:03:06.278Z</updated>
   <id>https://blog.wangyu.link/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>go语言学习 - new函数</title>
+    <link href="https://blog.wangyu.link/2023/02/25/2023-02-25/"/>
+    <id>https://blog.wangyu.link/2023/02/25/2023-02-25/</id>
+    <published>2023-02-24T16:00:00.000Z</published>
+    <updated>2023-02-25T14:03:06.278Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
+    
+  </entry>
   
   <entry>
     <title>go语言学习 - 指针</title>
@@ -370,23 +389,6 @@
     
     
     <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>NASA火星船票申请</title>
-    <link href="https://blog.wangyu.link/2021/03/16/2021-03-16/"/>
-    <id>https://blog.wangyu.link/2021/03/16/2021-03-16/</id>
-    <published>2021-03-15T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.059Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;美国NASA最近开放了2026年的“把你的名字送去火星”的计划，其实这个火星船票早在去年之前就有了，只不过今年莫名其妙就上了热搜。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="生活" scheme="https://blog.wangyu.link/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
   </entry>
