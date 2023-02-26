@@ -6,7 +6,7 @@
   <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
   
   <link href="https://blog.wangyu.link/"/>
-  <updated>2023-02-25T14:03:06.278Z</updated>
+  <updated>2023-02-26T14:01:43.752Z</updated>
   <id>https://blog.wangyu.link/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>go语言学习 - 数组</title>
+    <link href="https://blog.wangyu.link/2023/02/26/2023-02-26/"/>
+    <id>https://blog.wangyu.link/2023/02/26/2023-02-26/</id>
+    <published>2023-02-25T16:00:00.000Z</published>
+    <updated>2023-02-26T14:01:43.752Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
+    
+  </entry>
   
   <entry>
     <title>go语言学习 - new函数</title>
@@ -372,23 +391,6 @@
     
     
     <category term="生活" scheme="https://blog.wangyu.link/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>349个官网模版分享</title>
-    <link href="https://blog.wangyu.link/2021/03/29/2021-03-29/"/>
-    <id>https://blog.wangyu.link/2021/03/29/2021-03-29/</id>
-    <published>2021-03-28T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.059Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-03-29/%E6%88%AA%E5%B1%8F2021-03-29%20%E4%B8%8B%E5%8D%881.10.46.png&quot; alt=&quot;banner&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
