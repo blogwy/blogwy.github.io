@@ -6,7 +6,7 @@
   <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
   
   <link href="https://blog.wangyu.link/"/>
-  <updated>2023-02-26T14:01:43.752Z</updated>
+  <updated>2023-02-27T14:20:11.956Z</updated>
   <id>https://blog.wangyu.link/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>go语言学习 - 切片存储原理</title>
+    <link href="https://blog.wangyu.link/2023/02/27/2023-02-27/"/>
+    <id>https://blog.wangyu.link/2023/02/27/2023-02-27/</id>
+    <published>2023-02-26T16:00:00.000Z</published>
+    <updated>2023-02-27T14:20:11.956Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
+    
+  </entry>
   
   <entry>
     <title>go语言学习 - 数组</title>
@@ -367,30 +386,6 @@
     
     
     <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我的PS5国行到了</title>
-    <link href="https://blog.wangyu.link/2021/05/16/2021-05-16/"/>
-    <id>https://blog.wangyu.link/2021/05/16/2021-05-16/</id>
-    <published>2021-05-15T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.060Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;我的PS5国行到了，直观感觉“好大”！&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="生活" scheme="https://blog.wangyu.link/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
   </entry>
