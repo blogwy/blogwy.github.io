@@ -6,7 +6,7 @@
   <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
   
   <link href="https://blog.wangyu.link/"/>
-  <updated>2023-02-27T14:20:11.956Z</updated>
+  <updated>2023-03-02T14:48:30.013Z</updated>
   <id>https://blog.wangyu.link/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>go语言学习 - 切片扩容、增加、插入、删除</title>
+    <link href="https://blog.wangyu.link/2023/03/01/2023-03-01/"/>
+    <id>https://blog.wangyu.link/2023/03/01/2023-03-01/</id>
+    <published>2023-02-28T16:00:00.000Z</published>
+    <updated>2023-03-02T14:48:30.013Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2023-02-13/golang.jpeg&quot; alt=&quot;golang&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="golang" scheme="https://blog.wangyu.link/tags/golang/"/>
+    
+  </entry>
   
   <entry>
     <title>go语言学习 - 切片存储原理</title>
@@ -365,23 +384,6 @@
     
     
     <summary type="html">&lt;p&gt;我们要写一个叫&lt;code&gt;hello-cli&lt;/code&gt;的脚手架工具，它要做的是从GitHub拉去项目模版代码，把项目信息填入模版内即可。这是一个简单但是很常见的脚手架功能。&lt;a href=&quot;https://github.com/blogwy/cli-demo&quot;&gt;脚手架源码&lt;/a&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>BilibiliVideoDownload v3.1.0 - 新增扫码登录</title>
-    <link href="https://blog.wangyu.link/2021/07/01/2021-07-01/"/>
-    <id>https://blog.wangyu.link/2021/07/01/2021-07-01/</id>
-    <published>2021-06-30T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.060Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-07-01/%E6%88%AA%E5%B1%8F2021-07-15%20%E4%B8%8A%E5%8D%8811.02.35.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;</summary>
     
     
     
