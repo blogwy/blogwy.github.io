@@ -6,7 +6,7 @@
   <link href="https://blog.wangyu.link/atom.xml" rel="self"/>
   
   <link href="https://blog.wangyu.link/"/>
-  <updated>2023-03-07T14:17:30.775Z</updated>
+  <updated>2023-03-27T14:23:28.646Z</updated>
   <id>https://blog.wangyu.link/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[转]ChatGPT镜像站点分享</title>
+    <link href="https://blog.wangyu.link/2023/03/27/2023-03-27/"/>
+    <id>https://blog.wangyu.link/2023/03/27/2023-03-27/</id>
+    <published>2023-03-26T16:00:00.000Z</published>
+    <updated>2023-03-27T14:23:28.646Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Free-ChatGPT-Site-List&quot;&gt;&lt;a href=&quot;#Free-ChatGPT-Site-List&quot; class=&quot;headerlink&quot; title=&quot;Free ChatGPT Site List&quot;&gt;&lt;/a&gt;Free ChatGPT Site List&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;这儿为你准备了众多免费好用的ChatGPT镜像站点&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;发布网站：&lt;/strong&gt; &lt;a href=&quot;https://cc.ai55.cc/&quot;&gt;https://cc.ai55.cc/&lt;/a&gt;   (😃敬请收藏和分享)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分享站点&lt;/strong&gt;、&lt;strong&gt;站点失效&lt;/strong&gt;、&lt;strong&gt;标注错误&lt;/strong&gt;，请&lt;a href=&quot;https://github.com/xx025/carrot/issues&quot;&gt;🌺点此🌺&lt;/a&gt;告诉我&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://me.ai55.cc/pages/zs&quot; target=&quot;_blank&quot;&gt;&lt;font color=&quot;red&quot;&gt;🔗支持我，给你更长久的陪伴：【🧡赞赏🧡】&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br/&gt;
+&lt;a href=&quot;https://cc.ai55.cc/ad&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://st.ai55.cc/chatgpt3-icu.png&quot; alt=&quot;http://chatgpt3.icu&quot; style=&quot;height: 80px !important;width: auto !important;&quot; &gt;&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://cc.ai55.cc/ad&quot;&gt;👆http://chatgpt3.icu&lt;/a&gt; [ad.]&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="ChatGPT" scheme="https://blog.wangyu.link/tags/ChatGPT/"/>
+    
+  </entry>
   
   <entry>
     <title>go语言学习 - 结构体</title>
@@ -369,24 +399,6 @@
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;Aria2是一个非常成熟的下载程序，基于命令行调用。它也提供上RPC、WebSocket的调用方式。下面我会通过前端WebSocket调用的方式实现一个简单的下载功能&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://wong-1251253615.cos.ap-shanghai.myqcloud.com/blog/images/2021-09-29/%E6%88%AA%E5%B1%8F2021-09-29%20%E4%B8%8A%E5%8D%8810.46.06.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.wangyu.link/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>rtsp/rtmp转m3u8 nodejs+ffmpeg实现</title>
-    <link href="https://blog.wangyu.link/2021/09/25/2021-09-24/"/>
-    <id>https://blog.wangyu.link/2021/09/25/2021-09-24/</id>
-    <published>2021-09-24T16:00:00.000Z</published>
-    <updated>2022-05-22T02:16:45.060Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;本文使用node.js和ffmpeg实现了rtsp/rtmp直播流转m3u8&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;核心代码&lt;/p&gt;</summary>
     
     
     
